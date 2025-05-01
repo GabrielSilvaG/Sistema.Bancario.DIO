@@ -42,8 +42,11 @@ Este projeto é um sistema bancário simples desenvolvido em Python, com funcion
 📝 Exemplo de Uso
 
 [d] Depositar
+
 [s] Sacar
+
 [e] Extrato
+
 [q] Sair
 
 => d
