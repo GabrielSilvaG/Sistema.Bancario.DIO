@@ -50,10 +50,12 @@ Este projeto é um sistema bancário simples desenvolvido em Python, com funcion
 [q] Sair
 
 => d
+
 Informe o valor do depósito: 1000
 
 
 => s
+
 Informe o valor do saque: 200
 
 => e
