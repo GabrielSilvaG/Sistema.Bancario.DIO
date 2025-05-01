@@ -34,8 +34,7 @@ Este projeto é um sistema bancário simples desenvolvido em Python, com funcion
 1. Certifique-se de ter o **Python 3.10+** instalado.
 2. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
-   cd seu-repositorio
+   git clone https://github.com/GabrielSilvaG/Sistema.Bancario.DIO.git
 
 
 
