@@ -57,12 +57,14 @@ Informe o valor do depósito: 1000
 Informe o valor do saque: 200
 
 => e
+
 ================ EXTRATO ================
 Depósito: R$ 1000.000
 Saque: R$ 200.00
 
 Saldo: R$ 800.00
 Saques restantes: 1 / 3
+
 ==========================================
 
 
