@@ -64,6 +64,7 @@ Informe o valor do saque: 200
 ================ EXTRATO ================
 
 Depósito: R$ 1000.000
+
 Saque: R$ 200.00
 
 Saldo: R$ 800.00
